@@ -1,0 +1,1306 @@
+{
+    "status": "ok", 
+    "totalResults": 543,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "tips@androidcentral.com (Vishnu Sarangapurkar)",
+    "title": "Google is reportedly looking into building Pixel phones in India",
+    "description": "Google currently relies on China and Vietnam to produce its Pixel devices. Due to the ongoing trade war, the company is looking for alternatives starting with India.",
+    "url": "https://www.androidcentral.com/phones/google-reportedly-seeks-alternative-pixel-production-india",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/9zzBNRuBw3bxP48ug2pvoL-1200-80.jpg",
+    "publishedAt": "2023-06-21T00:20:32Z",
+    "content": "<ul><li>Google is reportedly looking to follow Apple and produce some of its phones in India.</li><li>The company is allegedly in talks with manufacturing plants like Lava, Dixon, and Foxconn.</li><l… [+1947 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "BeauHD",
+    "title": "iOS 17 Will Decode Your Car's Dashboard Symbols and Warning Lights",
+    "description": "According to a Reddit user, Apple's Visual Look Up feature has been expanded in iOS 17 to include all of the various symbols on a vehicle's dashboard -- \"everything from the labels used for HVAC controls, to the warning lights that only turn on when there's a…",
+    "url": "https://apple.slashdot.org/story/23/06/20/2119239/ios-17-will-decode-your-cars-dashboard-symbols-and-warning-lights",
+    "urlToImage": "https://a.fsdn.com/sd/topics/ios_64.png",
+    "publishedAt": "2023-06-21T00:45:00Z",
+    "content": "Apple introduced a feature with iOS 15 called Visual Look Up that uses AI to analyze photos taken with the iPhone's camera and attempt to decipher them, providing more information about what's in the… [+800 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "George Glover",
+    "title": "Apple isn't worth its near-$3 trillion valuation - and its stock has only surged this year because it's a safety play, CIO says",
+    "description": "The tech giant's shares have jumped 42% in 2023, putting a $3 trillion market capitalization within reach.",
+    "url": "https://markets.businessinsider.com/news/stocks/apple-3-trillion-valuation-safety-play-tech-stocks-investing-analysis-2023-6",
+    "urlToImage": "https://i.insider.com/6492c14365b9ce0018a44247?width=1200&format=jpeg",
+    "publishedAt": "2023-06-21T09:56:06Z",
+    "content": "Tim Cook standing next to the new Apple Vision Pro headset.Justin Sullivan/Getty Images\r\n<ul>\n<li>Apple isn't worth its current valuation, according to Short Hills managing partner Steve Weiss.</li>\n… [+2399 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Madison Hoff",
+    "title": "The 25 best large companies for career growth",
+    "description": "Boston Consulting Group ranked No. 1 on a large-company ranking from workplace-culture site Comparably. ADP and Google also ranked high on the list.",
+    "url": "https://www.businessinsider.com/where-are-great-companies-for-career-growth-opportunities-comparably-ranking-2023-6",
+    "urlToImage": "https://i.insider.com/6491acef51ea980019d6d81c?width=1200&format=jpeg",
+    "publishedAt": "2023-06-21T10:00:06Z",
+    "content": "Boston Consulting Group ranked No. 1 on Comparably's ranking of the greatest companies for career growth opportunities.Tada Images/Shutterstock\r\n<ul>\n<li>Comparably, an employer-review site, analyzed… [+4227 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Daringfireball.net"
+    },
+    "author": "John Gruber",
+    "title": "★ More on Preemptively Blocking Facebook’s Imminent ActivityPub Entry",
+    "description": "The whole point of an open protocol like ActivityPub is that no one can own it.",
+    "url": "https://daringfireball.net/2023/06/more_on_preemptively_blocking",
+    "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
+    "publishedAt": "2023-06-21T01:58:25Z",
+    "content": "More on Preemptively Blocking Facebooks Imminent ActivityPub Entry\r\nMy brief Not That Kind of Open piece yesterday struck a chord for some.\r\nChris Messina:\r\nNot federating is certainly a choice admin… [+5584 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Leo Becker",
+    "title": "Passwortlose Anmeldung: Apple-ID erhält ab iOS 17 automatisch einen Passkey",
+    "description": "Apple treibt den Passkey-Zug voran, der Passwörter ablösen soll. Die Passkey-Einrichtung für iCloud & Co erfolgt in Apple-Betriebssystemen automatisch.",
+    "url": "https://www.heise.de/news/Passwortlose-Anmeldung-Apple-ID-erhaelt-ab-iOS-17-automatisch-einen-Passkey-9193472.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/5/8/7/7/9/Schl__xfffd_ssel-857d7d73c8bf5779.jpg",
+    "publishedAt": "2023-06-21T08:18:00Z",
+    "content": "Jede Apple-ID hat künftig auch einen Passkey zur passwortlosen Anmeldung: Mit iOS 17, iPadOS 17 und macOS 14 Sonoma richtet der Betriebssystemhersteller für jeden Apple-ID-Nutzer automatisch einen Pa… [+2442 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Gottfried Hofmann",
+    "title": "heise+ | Wie Sie eine 3D-Flagge in Blender erstellen",
+    "description": "Blender 3.5 erleichtert den Umgang mit Geometry-Nodes, die Objekte im 3D-Raum verändern. Wir bearbeiten ein 2D-Bild, das danach wie eine Fahne im Wind weht.",
+    "url": "https://www.heise.de/ratgeber/Wie-Sie-eine-3D-Flagge-in-Blender-erstellen-9185930.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/5/4/6/7/1/00_fun_with_flags_germany-75da386c2a83efdf.jpg",
+    "publishedAt": "2023-06-21T09:30:00Z",
+    "content": "Inhaltsverzeichnis\r\nMit dem freien 3D-Paket Blender lassen sich dreidimensionale Modelle modellieren, texturieren, beleuchten und animieren. In Version 3.5 können Sie über den neuen Asset-Manager sog… [+3213 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Here’s how Apple News+ crossword puzzles appear in iOS 17",
+    "description": "Starting with iOS 17, Apple is taking a page from the New York Times and integrating crossword puzzles into the News app. Puzzles will be available to Apple News+ and Apple One subscribers. Here’s how they look in iOS 17.\n more…\nThe post Here’s how Apple News…",
+    "url": "https://9to5mac.com/2023/06/20/apple-news-crossword-puzzles-ios-17/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/crossword-puzzles-ios-17.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-06-21T03:06:53Z",
+    "content": "Starting with iOS 17, Apple is taking a page from the New York Times and integrating crossword puzzles into the News app. Puzzles will be available to Apple News+ and Apple One subscribers. Here’s ho… [+1082 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Amazon Prime Day is July 11 & 12 -- with new invitation deals",
+    "description": "Amazon has officially announced that its annual Prime Day shopping event will be for 48 hours from Tuesday, July 11, 2023, and introduces a new invitation-only extra.Source: AmazonThe retail giant has announced its 2023 Prime Day dates, and says \"in the US, m…",
+    "url": "https://appleinsider.com/articles/23/06/21/amazon-prime-day-is-july-11-12----with-new-invitation-deals",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/55024-111656-000-lead-Amazon-xl.jpg",
+    "publishedAt": "2023-06-21T10:03:57Z",
+    "content": "Source: Amazon\r\nAmazon has officially announced that its annual Prime Day shopping event will be for 48 hours from Tuesday, July 11, 2023, and introduces a new invitation-only extra.\r\nThe retail gian… [+2345 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Lifehacker.jp"
+    },
+    "author": "山田洋路",
+    "title": "充電器・ハブ・ストレージが合体したクレカサイズのアダプタ「Cyberize One」",
+    "description": "60Wの高速充電器と大容量ストレージ、マルチポートHUBがひとまとめになったクレカサイズのアダプタが登場。「Cyberize One」はApple MagSafe 2アダプタよりも40％小さいのに最大1TBのSSDを搭載しています。接続して充電とデータ転送が可能。4KモニタへのHDMI出力もできます。",
+    "url": "https://www.lifehacker.jp/article/machi-ya-cyberizeone-start-645050/",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/06/18/CyberizeOne00.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-06-21T01:45:00Z",
+    "content": "machi-ya\r\n60WHUBCyberize One\r\n4Cyberize OneSD\r\n4\r\nImage: RUTAWA JAPAN INC\r\nCyberize One4\r\nUSB Type-C × 1\r\nUSB Type-A × 2\r\nHDMI × 1\r\nUSB Type-C65W13 MacBook Pro260WPD\r\n1TBSSD\r\nImage: RUTAWA JAPAN INC\r… [+381 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yanko Design"
+    },
+    "author": "JC Torres",
+    "title": "This innovative 6-in-1 cable is the one charging and data cable to rule them all",
+    "description": "This innovative 6-in-1 cable is the one charging and data cable to rule them allIt’s easy to underestimate how much time we lose each day looking for the things we need, whether it’s our glasses, writing instruments, or charging...",
+    "url": "https://www.yankodesign.com/2023/06/20/this-innovative-6-in-1-cable-is-the-one-charging-and-data-cable-to-rule-them-all/",
+    "urlToImage": "https://www.yankodesign.com/images/design_news/2023/06/this_fastest_6-in-1_cable_rules_them_all_hero.jpg",
+    "publishedAt": "2023-06-21T01:45:18Z",
+    "content": "It’s easy to underestimate how much time we lose each day looking for the things we need, whether it’s our glasses, writing instruments, or charging cables. All those little pockets of time add up, c… [+3819 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Uncrate.com"
+    },
+    "author": "Uncrate",
+    "title": "Trinidad Circle House",
+    "description": "The Trinidad Circle House presents a modern desert retreat to the market in Palm Springs. The 4,185-square-foot residence delivers classic mid-century vibes with its clean lines, flat roofs, and stone facade. Its interior is clean and contemporary, dressed in…",
+    "url": "https://uncrate.com/trinidad-circle-house/",
+    "urlToImage": "https://uncrate.com/p/2023/06/trinidad-circile-house-1.jpg",
+    "publishedAt": "2023-06-21T00:00:39Z",
+    "content": "Show your support for your favorite Major League Soccer club with these officially-licensed smartwatch bands from Mobyfox. Made from sweat- and UV-resistant silicone, each band sports the team's prim… [+399 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Isra Fdez",
+    "title": "Apple reinventa el cinturón de seguridad para su Apple Car: esta patente plantea una idea innovadora",
+    "description": "La seguridad y accesibilidad siempre ha sido una de las máximas de Apple. Y recientemente ha trascendido información de una patente interesante que pone el foco en esto mismo: un sistema de cinturón de seguridad con pantalla.\n<!-- BREAK 1 -->\nSi bien es ciert…",
+    "url": "https://www.applesfera.com/accesorios/apple-reinventa-cinturon-seguridad-para-su-apple-car-esta-patente-plantea-idea-innovadora",
+    "urlToImage": "https://i.blogs.es/ff6f95/maxim-hopman-2gqwfocqi6q-unsplash/840_560.jpeg",
+    "publishedAt": "2023-06-21T10:01:14Z",
+    "content": "La seguridad y accesibilidad siempre ha sido una de las máximas de Apple. Y recientemente ha trascendido información de una patente interesante que pone el foco en esto mismo: un sistema de cinturón … [+2076 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Malas noticias: tras 7 años trabajando en ella, Apple TV+ cancela el remake de 'Metrópolis' a cargo del creador de Mr. Robot",
+    "description": "Con 'Fundación' parecía que la ambición de Apple para adaptar grandes obras de ciencia ficción no tenía límites, pero en Cupertino se han topado con ellos. La compañía ha cancelado la adaptación a serie moderna de 'Metropolis', la obra magna de Fritz Lang y p…",
+    "url": "https://www.applesfera.com/servicios-apple/malas-noticias-7-anos-trabajando-ella-apple-tv-cancela-remake-metropolis-a-cargo-creador-mr-robot",
+    "urlToImage": "https://i.blogs.es/44e6f6/captura-de-pantalla-2023-06-21-a-las-10.24.05/840_560.jpeg",
+    "publishedAt": "2023-06-21T09:01:13Z",
+    "content": "Con 'Fundación' parecía que la ambición de Apple para adaptar grandes obras de ciencia ficción no tenía límites, pero en Cupertino se han topado con ellos. La compañía ha cancelado la adaptación a se… [+1451 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "A precio mínimo la memoria Flash USB-C de Kingston con velocidades ultrarrápidas de SSD compatible con iPad y Mac",
+    "description": "Si hasta los SSD portátiles más compactos te parecen demasiado grandes, y necesitas un soporte de almacenamiento externo con velocidades de transferencia ultrarrápidas, el Kingston DataTraveler Max de 1 TB puede ser lo que estabas buscando y está rebajado a s…",
+    "url": "https://www.applesfera.com/seleccion/a-precio-minimo-memoria-flash-usb-c-kingston-velocidades-ultrarrapidas-ssd-compatible-ipad-mac",
+    "urlToImage": "https://i.blogs.es/1bc838/kingston-datatraveler/840_560.jpeg",
+    "publishedAt": "2023-06-21T06:31:44Z",
+    "content": "Si hasta los SSD portátiles más compactos te parecen demasiado grandes, y necesitas un soporte de almacenamiento externo con velocidades de transferencia ultrarrápidas, el Kingston DataTraveler Max d… [+2564 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Tobias Költzsch",
+    "title": "Apple: Nutzer müssen nach Selbstreparatur nicht mehr telefonieren",
+    "description": "Wer künftig Apples Selbstreparaturprogramm verwendet, muss die neuen Teile anschließend nicht mehr telefonisch freischalten, sondern kann es selbst tun. (Apple, Notebook)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fapple-nutzer-muessen-nach-selbstreparatur-nicht-mehr-telefonieren-2306-175142.html&referer=https%3A%2F%2Ft.co%2Fad788f0049",
+    "urlToImage": null,
+    "publishedAt": "2023-06-21T08:05:02Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Kaitlyn Cimino",
+    "title": "The best screen protectors for the Apple Watch Ultra",
+    "description": "Find out the best Apple Watch Ultra screen protectors to keep your device free of scratches, smudges, and cracks.",
+    "url": "https://www.androidauthority.com/best-apple-watch-ultra-screen-protectors-3337540/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/09/Apple-Watch-Ultra-scaled.jpg",
+    "publishedAt": "2023-06-21T04:50:55Z",
+    "content": "Stretching 1.5 inches across users wrists, the display on the Apple Watch Ultra is one of the wearables biggest selling points. Between scrolling text, loading apps, and reading maps, youll likely fi… [+4479 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Espinof.com"
+    },
+    "author": "Albertini",
+    "title": "Estrenos (21 de junio): 50 series, películas y documentales en Netflix, HBO Max, Amazon, Disney+, Filmin, Movistar Plus+, Apple TV y Atresplayer",
+    "description": "En lo que pasamos el solsticio de verano, es miércoles y eso significa que, de nuevo, tenemos una oportunidad de repasar todo lo que llega a las plataformas de streaming. En esta ocasión contamos con 50 series, películas y documentales que llegan desde hoy a …",
+    "url": "https://www.espinof.com/estrenos/estrenos-21-junio-series-peliculas-documentales-netflix-hbo-max-amazon-disney-plus-filmin-movistar-plus-apple-tv-atresplayer",
+    "urlToImage": "https://i.blogs.es/4b9aad/secret-invasion-samuel-l-jackson-642a8a1c243f8/840_560.jpeg",
+    "publishedAt": "2023-06-21T07:01:14Z",
+    "content": "En lo que pasamos el solsticio de verano, es miércoles y eso significa que, de nuevo, tenemos una oportunidad de repasar todo lo que llega a las plataformas de streaming. En esta ocasión contamos con… [+4299 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Espinof.com"
+    },
+    "author": "Jorge Loser",
+    "title": "'Invasión secreta' 1x01: un mohíno comienzo para el thriller de ultracuerpos de Marvel que promete subir octanos en su explosivo tramo final",
+    "description": "Las series de superhéroes de Marvel han tomado aire antes de retomar su andadura con ‘Invasión Secreta’, casi un año más tarde del estreno de ‘She-Hulk’. Después de su tono ligero, el MCU vuelve a ponerse en el modo más serio, con un thriller de espías y cien…",
+    "url": "https://www.espinof.com/disney-plus/invasion-secreta-1x01-mohino-comienzo-para-thriller-ultracuerpos-marvel-que-promete-subir-octanos-su-explosivo-tramo-final",
+    "urlToImage": "https://i.blogs.es/616669/2023-secret-invasion-03/840_560.jpeg",
+    "publishedAt": "2023-06-21T09:01:14Z",
+    "content": "Las series de superhéroes de Marvel han tomado aire antes de retomar su andadura con Invasión Secreta, casi un año más tarde del estreno de She-Hulk. Después de su tono ligero, el MCU vuelve a poners… [+5029 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Tammy Rogers",
+    "title": "Best Prime Day Apple Watch Deals 2023",
+    "description": "Prime Day is coming, and we’ve started rounding up all the best deals so that you can get in there good and early.",
+    "url": "https://www.imore.com/health-fitness/apple-watch/best-prime-day-apple-watch-deals-2023",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/DxzrSQ6mzDGebM4qz4QUL6-1200-80.jpg",
+    "publishedAt": "2023-06-21T09:53:42Z",
+    "content": "If you’re looking for a great deal on a new wearable, then a Prime Day Apple Watch deal may well be exactly what you’ve been looking for. For a glorious two days as the summer sun starts to shine, Am… [+1823 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Stephen Warwick",
+    "title": "Amazon Prime Day dates are confirmed — but the deals have already started",
+    "description": "Amazon has announced its Amazon Prime Day sale will take place on July 11-12, but some deals are already here.",
+    "url": "https://www.imore.com/apple/amazon-prime-day-dates-are-confirmed-but-the-deals-have-already-started",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/466TmVayzNmEooV8kMWtBn-1200-80.jpg",
+    "publishedAt": "2023-06-21T09:01:16Z",
+    "content": "Amazon has officially announced that its famous Prime Day sale will take place on July 11-12, 2023. \r\n\"The countdown has begun to Amazon’s Prime Day event,\" the company stated in a press release. \r\nF… [+902 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Les Numériques"
+    },
+    "author": "Thibaud Gomès-Léal",
+    "title": "Actualité : Les séries HBO bientôt disponibles sur Netflix ?",
+    "description": "Warner Bros. Discovery aurait décidé de diffuser plusieurs de ses séries HBO sur la plateforme rivale Netflix.",
+    "url": "https://www.lesnumeriques.com/cine-svod/les-series-hbo-bientot-disponibles-sur-netflix-n210732.html",
+    "urlToImage": "https://cdn.lesnumeriques.com/optim/news/21/210732/950b700b-les-series-hbo-bientot-sur-netflix_png__1200_630__209-43-1661-805.jpg",
+    "publishedAt": "2023-06-21T09:46:00Z",
+    "content": "La série Game of Thrones pourrait bientôt arriver sur Netflix.\r\n© HBO\r\nEst-ce la fin de l'ère des exclusivités ? C'est en tout cas ce que laisse penser cette décision de Warner Bros. Discovery. Un ch… [+1840 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xatakamovil.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "A la espera de lo nuevo de Spotify Hi-Fi, hay plataformas que ya tienen música de alta fidelidad: estos son sus precios",
+    "description": "Han sido muchos los rumores desde hace años, pero ayer Ashley Carman soltó la bomba en Bloomberg. Y es que parece que el plan Hi-Fi de Spotify está más cerca que nunca. Se tratará, según las citadas informaciones, de una nueva modalidad de mayor calidad de so…",
+    "url": "https://www.xatakamovil.com/streaming/a-espera-nuevo-spotify-hi-fi-hay-plataformas-que-tienen-musica-alta-fidelidad-estos-sus-precios",
+    "urlToImage": "https://i.blogs.es/248a6a/plataformas-musica/840_560.jpeg",
+    "publishedAt": "2023-06-21T08:01:14Z",
+    "content": "Han sido muchos los rumores desde hace años, pero ayer Ashley Carman soltó la bomba en Bloomberg. Y es que parece que el plan Hi-Fi de Spotify está más cerca que nunca. Se tratará, según las citadas … [+4172 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xatakamovil.com"
+    },
+    "author": "Iván Ramírez",
+    "title": "Chrome es el nuevo caballo de Troya de Google para iOS: integra Maps, Calendar, Lens y el Traductor",
+    "description": "Google lo tiene fácil en Android, pues hace y deshace en el sistema operativo y la gran mayoría de móviles comerciales incluyen su paquete de apps preinstaladas, pero no tanto en iOS, territorio hostil en cierto modo. Google parece haber encontrado una apertu…",
+    "url": "https://www.xatakamovil.com/aplicaciones/chrome-nuevo-caballo-troya-google-para-ios-integra-maps-calendar-lens-traductor",
+    "urlToImage": "https://i.blogs.es/eda21f/chromeios/840_560.jpeg",
+    "publishedAt": "2023-06-21T06:01:16Z",
+    "content": "Google lo tiene fácil en Android, pues hace y deshace en el sistema operativo y la gran mayoría de móviles comerciales incluyen su paquete de apps preinstaladas, pero no tanto en iOS, territorio host… [+2331 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MIT Technology Review"
+    },
+    "author": "Julie Kim",
+    "title": "The iPad was meant to revolutionize accessibility. What happened?",
+    "description": "In December 2022, a few months after learning that he’d won an Iowa Arts Fellowship to attend the MFA program at the University of Iowa, David James “DJ” Savarese sat for a televised interview with a local news station. But in order to answer the anchorman’s …",
+    "url": "https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/",
+    "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/06/FF_01-cropSA-thumb.jpeg?resize=1200,600",
+    "publishedAt": "2023-06-21T09:00:00Z",
+    "content": "The default TouchChat display of PRC-Saltillos communication device, for example, consists of 12 rows of eight buttons displaying a mix of letters, object icons (apple), category icons (food), and na… [+4732 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "André Westphal",
+    "title": "Apple Beats Studio Pro: Neue Hinweise auf die Kopfhörer",
+    "description": "Apple plant mit den Beats Studio Pro neue Over-Ear-Kopfhörer. Mittlerweile ist dieses Modell schon bei der Federal Communications Commission (FCC) in den USA aufgetaucht. Das deutet darauf hin, dass die Veröffentlichung näher rückt. Schon im Mai gab es erste …",
+    "url": "https://stadt-bremerhaven.de/apple-beats-studio-pro-neue-hinweise-auf-die-kopfhoerer/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/beats-studio-pro.jpg",
+    "publishedAt": "2023-06-21T10:00:11Z",
+    "content": "Apple plant mit den Beats Studio Pro neue Over-Ear-Kopfhörer. Mittlerweile ist dieses Modell schon bei der Federal Communications Commission (FCC) in den USA aufgetaucht. Das deutet darauf hin, dass … [+982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Frandroid"
+    },
+    "author": "Cassim Ketfi",
+    "title": "iOS 17 : Apple clarifie les nouveautés qui rateront le lancement",
+    "description": "Comme chaque année, les nouveautés présentées pour la nouvelle version d'iOS n'arriveront pas toutes dès la sortie du système. Avec iOS 17, certaines des grandes fonctions devront attendre.",
+    "url": "https://www.frandroid.com/marques/apple/1722909_ios-17-apple-clarifie-les-nouveautes-qui-rateront-le-lancement",
+    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/06/apple-wwdc23-ios-17-iphone-14-pro-3-up-230605.jpg",
+    "publishedAt": "2023-06-21T08:16:15Z",
+    "content": "Comme chaque année, les nouveautés présentées pour la nouvelle version d'iOS n'arriveront pas toutes dès la sortie du système. Avec iOS 17, certaines des grandes fonctions devront attendre.\r\nApple a … [+2557 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Srad.jp"
+    },
+    "author": "nagazou",
+    "title": "Safari 17、JPEG XLをサポートへ",
+    "description": "WebKitは6日に、Safari関連の発表をおこなっているが、その中でSafari 17上でJPEG XLが正式にサポートされることを表明している。Safari 17は現在ベータ版がリリースされている。WebKitのリリースによると、JPEG XLは、iOS、iPadOS、watchOS、visionOSのほか、macOS Sonoma、macOS Ventura、macOS Monterey上のSafari 17、Safari View Controller、およびWKWebViewのWebKit上でサポート…",
+    "url": "https://apple.srad.jp/story/23/06/20/1446227/",
+    "urlToImage": "https://srad.jp/static/topics/safari_64.png",
+    "publishedAt": "2023-06-21T06:08:00Z",
+    "content": "WebKit6SafariSafari 17JPEG XLSafari 17WebKitJPEG XLiOSiPadOSwatchOSvisionOSmacOS SonomamacOS VenturamacOS MontereySafari 17Safari View ControllerWKWebViewWebKitWebKitSerch Engine JournalJPEG XLJPEGJP… [+42 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "01net.com"
+    },
+    "author": "Geoffroy Ondet",
+    "title": "Comment Google veut vous faire adopter Chrome à la place de Safari sur iOS",
+    "description": "La dernière mise à jour de Chrome sur iOS offre aux utilisateurs une bien meilleure expérience avec les services Google.",
+    "url": "https://www.01net.com/actualites/comment-google-veut-vous-faire-adopter-chrome-a-la-place-de-safari-sur-ios.html",
+    "urlToImage": "https://www.01net.com/app/uploads/2023/06/Chrome-iOS.jpg",
+    "publishedAt": "2023-06-21T08:39:40Z",
+    "content": "La dernière mise à jour de Chrome sur iOS offre aux utilisateurs une bien meilleure expérience avec les services Google. Vous utilisez un iPhone ? Il y a donc de très fortes chances pour que vous uti… [+2973 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Phys.Org"
+    },
+    "author": "Science X",
+    "title": "Climate change could lead to 'widespread chaos' for insect communities",
+    "description": "New species continue to evolve the world over, as different groups of organisms separate and take divergent paths. What happens when you add climate change to the mix?",
+    "url": "https://phys.org/news/2023-06-climate-widespread-chaos-insect-communities.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/climate-change-could-l-1.jpg",
+    "publishedAt": "2023-06-21T04:00:02Z",
+    "content": "New species continue to evolve the world over, as different groups of organisms separate and take divergent paths. What happens when you add climate change to the mix?\r\nThat's the question Thomas H.Q… [+3527 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Highsnobiety"
+    },
+    "author": null,
+    "title": "One of Hip Hop's Greatest Producers is Also one of its Wealthiest Moguls",
+    "description": "If I were to skim through your summer playlist, I promise you I'd find a Dr. Dre banger nestled in there. Andre Young, the architect of the West Coast sound, h…",
+    "url": "https://www.highsnobiety.com/p/how-much-is-dr-dre-worth/",
+    "urlToImage": "https://www.highsnobiety.com/static-assets/thumbor/DB6za6R6rll0n9bepHec_vFTRyo=/960x640/www.highsnobiety.com/static-assets/wp-content/uploads/2014/01/What-Does-Dr.-Dre-Stand-to-Gain-from-Releasing-Detox-1.jpg",
+    "publishedAt": "2023-06-21T08:40:21Z",
+    "content": "If I were to skim through your summer playlist, I promise you I'd find a Dr. Dre banger nestled in there. Andre Young, the architect of the West Coast sound, has provided us with some of the most ico… [+4527 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GSMArena.com"
+    },
+    "author": "Michail",
+    "title": "Apple Self Service Repair program now includes iPhone 14 series and M2 MacBooks",
+    "description": "The Apple Self Service repair program is expanding to cover even more devices including the iPhone 14 series, the 13-inch M2 MacBook Air and the 14” and 16” M2 MacBook Pro. In addition, Apple is bringing support for True Depth camera and speaker repairs on th…",
+    "url": "https://www.gsmarena.com/apple_self_service_repair_program_now_includes_iphone_14_series_and_m2_macbooks-news-58919.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/06/apple-self-service-iphone-14-m2-macbooks/-952x498w6/gsmarena_001.jpg",
+    "publishedAt": "2023-06-21T06:49:01Z",
+    "content": "The Apple Self Service repair program is expanding to cover even more devices including the iPhone 14 series, the 13-inch M2 MacBook Air and the 14 and 16 M2 MacBook Pro. In addition, Apple is bringi… [+902 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Peter Caranicas",
+    "title": "Veteran Studio Exec Shawn Papazian to Lead Chicago’s The Fields Studios",
+    "description": "Studio operator Shawn Papazian is set to lead the development and operation of The Fields Studios, Chicago’s newly minted studio and soundstage complex. The announcement was made by real estate developer and The Fields Studios owner Knickpoint Ventures, which…",
+    "url": "https://variety.com/2023/biz/filming-locations/veteran-studio-exec-shawn-papazian-to-lead-chicagos-the-fields-studios-knickpoint-ventures-1235650473/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-21-at-12.37.51-AM-2.png?w=1000&h=563&crop=1",
+    "publishedAt": "2023-06-21T07:57:12Z",
+    "content": "Studio operator Shawn Papazian is set to lead the development and operation of The Fields Studios, Chicago’s newly minted studio and soundstage complex.\r\nThe announcement was made by real estate deve… [+2217 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Itsnicethat.com"
+    },
+    "author": "Sponsored Content",
+    "title": "Stills is a new design-oriented image licensing platform built by creatives, for creatives",
+    "description": "Launching next month, the platform will offer an unparalleled selection of photography, shot by some of the most sought-after photographers.",
+    "url": "https://www.itsnicethat.com/articles/stills-graphic-design-photography-sponsored-content-210623",
+    "urlToImage": "https://admin.itsnicethat.com/images/tHa66UW8cPj4rnvMlHBuYz9-_Vk=/242345/width-1440/Liz-Bretz.jpg",
+    "publishedAt": "2023-06-21T08:00:00Z",
+    "content": "Needless to say, the photographs on Stills are a far cry from stock imagery. Shot by in-demand photographers (all of whom are given artist-friendly fee splits, well above the industry average) the ro… [+1429 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Puromarketing.com"
+    },
+    "author": "Redacción",
+    "title": "La Generación Z y su poder de influencia: claves para que las marcas conquisten este mercado",
+    "description": "PuroMarketing - En la era digital en la que vivimos, las marcas se enfrentan a un desafío constante: captar la atención y fidelidad de la Generación Z. Como la generación más joven y conectada, los miembros de la Generación Z nacieron y crecieron en un mundo …",
+    "url": "https://www.puromarketing.com/88/212203/generacion-poder-influencia-claves-para-marcas-conquisten-este-mercado",
+    "urlToImage": "https://www.puromarketing.com/uploads/img/contents/2023/4y1RBWJiGZv0xCTOIPSo/4y1RBWJiGZv0xCTOIPSo_post_imagen_prev.jpg",
+    "publishedAt": "2023-06-21T07:06:00Z",
+    "content": "En la era digital en la que vivimos, las marcas se enfrentan a un desafío constante: captar la atención y fidelidad de la Generación Z. Como la\r\n generación más joven y conectada, los miembros de la … [+9371 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Touch Arcade"
+    },
+    "author": "Mikhail Madnani",
+    "title": "‘Bloons TD 6’ Netflix Edition Now Available on iOS and Android, Third Version on the App Store",
+    "description": "I’ve been excited to see what Netflix brings to iOS and Android through its gaming initiative in recent times. We’ve … Continue reading \"‘Bloons TD 6’ Netflix Edition Now Available on iOS and Android, Third Version on the App Store\"",
+    "url": "https://toucharcade.com/2023/06/21/bloons-td-6-netflix-edition-download-available-now-iphone-android-tower-defense/",
+    "urlToImage": null,
+    "publishedAt": "2023-06-21T09:49:39Z",
+    "content": "I’ve been excited to see what Netflix brings to iOS and Android through its gaming initiative in recent times. We’ve had quality ports of amazing indie games, bespoke mobile games, games based on Net… [+1251 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thefirstmess.com"
+    },
+    "author": "Laura Wright",
+    "title": "Fresh Summer Salad with Arugula, Corn & Spicy Cashew Dressing",
+    "description": "Fresh summer salad with arugula, corn, sweet peaches & spicy-tangy vegan cashew dressing is crisp, juicy, flavorful and ready in 30 minutes.\nThe post Fresh Summer Salad with Arugula, Corn & Spicy Cashew Dressing appeared first on The First Mess.",
+    "url": "https://thefirstmess.com/2023/06/21/fresh-summer-salad-arugula-corn-spicy-cashew-dressing/",
+    "urlToImage": "https://thefirstmess.com/wp-content/uploads/2023/06/Fresh-Summer-Salad-Arugula-Corn-Spicy-Cashew-Dressing-05.jpg",
+    "publishedAt": "2023-06-21T06:59:00Z",
+    "content": "Fresh Summer Salad with Arugula, Corn &amp; Spicy Cashew Dressing\r\nCreated by Laura Wright\r\nMy fresh summer salad with arugula, corn, sweet peaches, and spicy-tangy cashew dressing is colourful, cris… [+4747 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Next INpact"
+    },
+    "author": null,
+    "title": "#LeBrief : IA générative Voicebox de Meta, rover Idefix, un monde sans Internet, Self-Repair Apple et Samsung",
+    "description": "Retrouvez l'actualité en bref de l'informatique et du numérique.",
+    "url": "https://www.nextinpact.com/lebrief/1266",
+    "urlToImage": "https://cdn2.nextinpact.com/images/bd/wide-linked-media/2360.jpg",
+    "publishedAt": "2023-06-21T05:27:34Z",
+    "content": "Les chercheurs de Meta AI auraient réalisé une « percée » dans le domaine de l'IA générative pour la parole avec Voicebox, « le premier modèle capable de s'adapter à des tâches de génération de la pa… [+2099 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Dani Cook)",
+    "title": "3 Things About Apple That Smart Investors Know",
+    "description": "The company has garnered praise and criticism for the Vision Pro, but its stock remains a reliable buy.",
+    "url": "https://www.fool.com/investing/2023/06/21/3-things-about-apple-that-smart-investors-know/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/736754/celebrating-stock-market-success.jpg",
+    "publishedAt": "2023-06-21T09:46:00Z",
+    "content": "Apple(AAPL 0.05%) has featured in countless headlines this month after unveiling its long-awaited, virtual/augmented reality (VR/AR) headset, the Vision Pro. The company's stock rose about 7% in the … [+3914 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Sean Williams)",
+    "title": "3 Stocks Warren Buffett Is Buying Hand Over Fist That Other Billionaires Are Selling",
+    "description": "Successful billionaire investors don't always see eye to eye on Wall Street.",
+    "url": "https://www.fool.com/investing/2023/06/21/3-stocks-warren-buffett-buy-other-billionaire-sell/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/736700/buffett17-tmf.jpg",
+    "publishedAt": "2023-06-21T09:06:00Z",
+    "content": "If billionaire Warren Buffett's nearly six decades in the CEO chair of Berkshire Hathaway(BRK.A 0.20%) (BRK.B 0.11%) have proved anything, it's that he has a knack for building wealth. Berkshire Hath… [+7023 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Leo Sun)",
+    "title": "Better Buy: Oracle vs. Broadcom",
+    "description": "Which of these blue-chip tech giants is the better all-around investment?",
+    "url": "https://www.fool.com/investing/2023/06/21/better-buy-oracle-vs-broadcom/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/736750/business-analyst-trader-stocks-trends.jpg",
+    "publishedAt": "2023-06-21T09:20:00Z",
+    "content": "Oracle(ORCL -2.73%) and Broadcom(AVGO -0.01%) are often considered blue-chip tech stocks that are owned for stability instead of growth. Yet both stocks soared over the past year, and are now hoverin… [+4239 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Trevor Jennewine)",
+    "title": "Nvidia and Amazon Joined the $1 Trillion Club in 2023 -- These 2 Growth Stocks Could Get There by 2033",
+    "description": "Tesla and Visa could be trillion-dollar companies a decade from now (or sooner).",
+    "url": "https://www.fool.com/investing/2023/06/21/nvidia-and-amazon-1-trillion-2-growth-stocks-next/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/736428/growth-12.jpg",
+    "publishedAt": "2023-06-21T09:45:00Z",
+    "content": "Apple was the first company to achieve a market capitalization of $1 trillion. It reached that milestone in 2018. Microsoft and Alphabet joined the club in 2019 and 2020, respectively, then Amazon an… [+4993 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Marketingdirecto.com"
+    },
+    "author": "Alberto Pérez",
+    "title": "«Nuestro reto fue trasladar los valores del cliente a través del entretenimiento y el contenido transmedia», M. Quintanilla (Grupoldex)",
+    "description": "‘Mesa para 3’, el Branded Content transmedia desarrollado por la consultora para Stoller Europe, ha sido seleccionado en los prestigiosos premios Cannes Lions 2023. \nLa entrada «Nuestro reto fue trasladar los valores del cliente a través del entretenimiento y…",
+    "url": "https://www.marketingdirecto.com/marketing-general/entrevistas/entreivsta-miguel-quintanilla-grupoldex",
+    "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2023/06/Copy-of-Mcdonalds-Espana-22.jpg",
+    "publishedAt": "2023-06-21T09:12:16Z",
+    "content": "Mesa para 3, el Branded Content transmedia desarrollado por la consultora para Stoller Europe, ha sido seleccionado en los prestigiosos premios Cannes Lions 2023.Por lo general, las campañas y trabaj… [+6091 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.de"
+    },
+    "author": "Florian Philon",
+    "title": "So übersteht Ihr den Sommer: Die besten mobilen Klimaanlagen im Vergleich",
+    "description": "Welche Klimaanlage solltet Ihr in Eurem Smart Home nutzen? Wir haben eine Auswahl der besten mobilen Klimaanlagen mit Smart-Funktionen für Euch.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+    "url": "https://www.nextpit.de/so-uebersteht-ihr-den-sommer-besten-mobilen-klimaanlagen-im-vergleich",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Air_Conditioner_2023.jpg",
+    "publishedAt": "2023-06-21T09:15:21Z",
+    "content": "© nikkytok / Adobe Stock\r\nWie wählt man eine passende Klimaanlage aus und welche Klimaanlage ist die richtige für Euer Smart Home? Um diese Fragen zu beantworten, hat nextpit eine Kaufberatung rund u… [+15357 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tomshw.it"
+    },
+    "author": "Dario De Vita",
+    "title": "Apple AirPods Pro di seconda gen in sconto del 20%!",
+    "description": "Comet offre gli auricolari AirPods Pro di Apple con uno sconto del 20%, consentendovi di acquistarli a un prezzo davvero vantaggioso.",
+    "url": "https://www.tomshw.it/smartphone/apple-airpods-pro-di-seconda-gen-in-sconto-del-20/",
+    "urlToImage": "https://www.tomshw.it/images/images/2021/08/apple-airpods-pro-178578.jpg",
+    "publishedAt": "2023-06-21T08:45:03Z",
+    "content": "Cuffie, auricolari e accessori Apple AirPods Pro di seconda gen in sconto del 20%!\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commiss… [+2731 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tomshw.it"
+    },
+    "author": "Luca Zaninello",
+    "title": "iPhone sempre più esclusivo, l’unico con processori a 3 nanometri",
+    "description": "Gli attesissimi iPhone 15 Pro/Pro Max saranno i soli smartphone disponibili quest'anno ad utilizzare un SoC a 3nm.",
+    "url": "https://www.tomshw.it/smartphone/iphone-sempre-piu-esclusivo-lunico-con-processori-a-3-nanometri/",
+    "urlToImage": "https://www.tomshw.it/images/images/2022/03/chip-wafer-222529.jpg",
+    "publishedAt": "2023-06-21T07:36:10Z",
+    "content": "Apple iPhone sempre più esclusivo, l’unico con processori a 3 nanometri\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commissione. Scopr… [+2310 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tomshw.it"
+    },
+    "author": "Luca Zaninello",
+    "title": "I MacBook avranno (finalmente) una funzione che Windows ha da anni",
+    "description": "C'è qualcosa di fondamentale che finora è mancato sui Mac: Face ID. La concorrenza può contare da anni su Windows Hello.",
+    "url": "https://www.tomshw.it/hardware/i-macbook-avranno-finalmente-una-funzione-che-windows-ha-da-anni/",
+    "urlToImage": "https://www.tomshw.it/images/images/2023/06/wwdc-2023-281009.jpg",
+    "publishedAt": "2023-06-21T08:02:23Z",
+    "content": "Computer Portatili I MacBook avranno (finalmente) una funzione che Windows ha da anni\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una comm… [+4621 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tomshw.it"
+    },
+    "author": "Federico Vecchio",
+    "title": "Mercedes Classe A180d 2023, cosa ci piace cosa no | La nostra prova",
+    "description": "Classe A si rinnova nella versione 2023, con un design più raffinato e un propulsore diesel 180d di nuova concezione.",
+    "url": "https://www.tomshw.it/automotive/mercedes-classe-a180d-2023-recensione/",
+    "urlToImage": "https://www.tomshw.it/images/images/2023/06/mercedes-classe-a180d-2023-prova-282190.jpg",
+    "publishedAt": "2023-06-21T06:11:53Z",
+    "content": "Auto Mercedes Classe A180d 2023, cosa ci piace cosa no | La nostra prova\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commissione. Scop… [+7444 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indian Express"
+    },
+    "author": "Tech Desk",
+    "title": "Apple’s self-repair program now supports iPhone 14 and M2 Macs",
+    "description": "Apple now supports iPhone 14 and M2 Macs under its self-repair program.",
+    "url": "https://indianexpress.com/article/technology/tech-news-technology/apples-self-repair-program-now-supports-iphone-14-and-m2-macs-8676486/",
+    "urlToImage": "https://images.indianexpress.com/2023/06/iPhone-14.jpg",
+    "publishedAt": "2023-06-21T04:45:14Z",
+    "content": "Apple has expanded its self-repair program to its latest products the iPhone 14 series and the M2-powered Macs. As part of this self-service repair program, Apple now offers spare parts, tools, and s… [+901 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Googlewatchblog.de"
+    },
+    "author": "Jens",
+    "title": "Chromebook X: Google plant leistungsfähige Geräte mit exklusiven Features – ersetzt Plus und Premium (Leak)",
+    "description": "Google will das neue Label 'Chromebook X' schaffen, mit dem sich leistungsfähige Chromebooks schmücken und über exklusive Feature verfügen sollen.Chromebook X: Google plant leistungsfähige Geräte mit exklusiven Features – ersetzt Plus und Premium (Leak)",
+    "url": "https://www.googlewatchblog.de/2023/06/chromebook-x-google-geraete/",
+    "urlToImage": "https://www.googlewatchblog.de/wp-content/uploads/chromebooks-gaming.jpg",
+    "publishedAt": "2023-06-21T09:30:57Z",
+    "content": "Google hat vor gut 12 Jahren gemeinsam mit Hardware-Partnern das erste Chromebook auf den Markt gebracht und damit eine neue Gerätekategorie geschaffen, die sich nach wie vor wachsender Beliebtheit e… [+4012 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.de"
+    },
+    "author": "Jade Bryan",
+    "title": "Apple-Passkeys-Unterstützung wurde weiter ausgebaut!",
+    "description": "Apple aktiviert seine Passkeys-Funktion auf weiteren offiziellen Internetseiten für iPhones und MacBooks mit iOS 17 bzw. macOS Sonoma.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+    "url": "https://www.nextpit.de/apple-passkeys-auf-mehr-websites-fuer-iphones-freigeschaltet",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7734655/image/Apple-Face-ID-iPhone-iPad-Pro.jpg",
+    "publishedAt": "2023-06-21T08:00:01Z",
+    "content": "© Apple\r\nNach der Ankündigung von Apple Passkeys im letzten Jahr, hat das Unternehmen aus Cupertino jetzt die Funktion auf weitere Internetseiten und Apps für seine Apple-Geräte ausgerollt. Jetzt, mi… [+2823 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.de"
+    },
+    "author": "Rubens Eishima",
+    "title": "Meinung: Pixel Tablet – nicht schön, aber die erste echte iPad-Alternative",
+    "description": "Das Pixel Tablet startete mit einer seltsamen Kampagne, die die smarten Display-Funktionen betonte – wahrscheinlich das Beste, was Google tun konnte.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+    "url": "https://www.nextpit.de/meinung-pixel-tablet-nicht-schoen-aber-erste-echte-ipad-alternative",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/nextpit_Google_Pixel_Tablet_vs_iPad.jpg",
+    "publishedAt": "2023-06-21T04:30:01Z",
+    "content": "© nextpit\r\nDas Pixel Tablet wurde auf der Google I/O 2023 vorgestellt und fühlte sich von Anfang an etwas unbeholfen an. Ist es wirklich ein Tablet? Ist es ein Smart Display? Oder vielleicht ein smar… [+6369 chars]"
+    },
+    {
+    "source": {
+    "id": "marca",
+    "name": "Marca"
+    },
+    "author": "ENRIQUE NARANJO",
+    "title": "Prueba del MG ZS 1.5 VTi: ¿este SUV es tan chollo como parece?",
+    "description": "MG y, en concreto el ZS, son de unos meses a esta parte protagonistas importantes del mercado español. Sin ir más lejos, el pasado mes de mayo fue el sexto coche más vendido en Esp",
+    "url": "https://www.marca.com/coches-y-motos/coches/suv/2023/06/21/648c5f6346163ffe858b45dd.html",
+    "urlToImage": "https://phantom-marca.unidadeditorial.es/a49af6fa6e694ff2a4021215fd9ac665/resize/1200/f/jpg/assets/multimedia/imagenes/2023/06/16/16869225898897.jpg",
+    "publishedAt": "2023-06-21T08:09:50Z",
+    "content": "MG y, en concreto el ZS, son de unos meses a esta parte protagonistas importantes del mercado español. Sin ir más lejos, el pasado mes de mayo fue el sexto coche más vendido en España con casi 2.000 … [+7793 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "Deutsche sparen an Lebensmitteln – Jeder Dritte greift zu billigem Fleisch",
+    "description": "Günstig kaufen oder gleich ganz verzichten: Laut einer Umfrage sucht ein steigender Teil der deutschen Verbraucher Lebensmittel vor allem nach dem Preis aus. Von dem Trend profitieren besonders die billigen Eigenmarken der Discounter.",
+    "url": "https://www.welt.de/wirtschaft/article245981874/Deloitte-Umfrage-Deutsche-sparen-an-Lebensmitteln-Jeder-Dritte-greift-zu-billigem-Fleisch.html",
+    "urlToImage": "https://img.welt.de/img/wirtschaft/mobile245981872/1431351387-ci16x9-w1200/Einkaufen-im-Supermarkt.jpg",
+    "publishedAt": "2023-06-21T06:46:02Z",
+    "content": "Viele Bürger sparen einer neuen Umfrage zufolge wegen der Inflation beim Lebensmittelkauf. Die Teuerung führt demnach dazu, dass ein beträchtlicher Teil der Verbraucherinnen entweder günstigere Leben… [+1629 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "Neun Ägypter nach Schiffsunglück in Untersuchungshaft",
+    "description": "Bis zu 750 Menschen sollen an Bord des Bootes gewesen sein, das vergangene Woche vor der griechischen Küste gesunken war. Nun sind neun mutmaßliche Schleuser in Untersuchungshaft gekommen. Den Ägyptern wird illegaler Menschenhandel vorgeworfen.",
+    "url": "https://www.welt.de/vermischtes/article245981234/Schiffsunglueck-vor-Griechenland-Neun-Aegypter-in-Untersuchungshaft.html",
+    "urlToImage": "https://img.welt.de/img/vermischtes/mobile245981246/4371358347-ci16x9-w1200/Bootsunglueck-in-Griechenland.jpg",
+    "publishedAt": "2023-06-21T01:05:16Z",
+    "content": "Nach dem Schiffsunglück mit mindestens 82 toten Migranten vor der griechischen Küste befinden sich neun Ägypter in Untersuchungshaft. Ihnen wird zur Last gelegt, als Schlepper illegalen Menschenhande… [+1830 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "„Katastrophaler Ausgang“ – Experten warnten 2018 bereits vor Sicherheitsmängeln der „Titan“",
+    "description": "Die Suche nach dem verschwundenen Tauchboot läuft auf Hochtouren. Weltweit wird um die fünf Insassen gebangt. Experten hatten bereits vor Jahren Bedenken geäußert und vor möglichen Gefahren für Passagiere gewarnt.",
+    "url": "https://www.welt.de/vermischtes/weltgeschehen/article245982080/U-Boot-verschollen-Experten-warnten-2018-bereits-vor-Sicherheitsmaengeln-der-Titan.html",
+    "urlToImage": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/panorama_nt/mobile245980840/4471352267-ci16x9-w1200/Titan.jpg",
+    "publishedAt": "2023-06-21T09:17:06Z",
+    "content": "Fünf Menschen harren zurzeit in einem Tauchboot aus, das sich irgendwo im Atlantik befindet ursprünglich auf dem Weg zum Wrack der Titanic. Am Sonntagmorgen hatte die Titan ihre Expedition angetreten… [+2717 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Dominik Lippe",
+    "title": "„Unterm Strich ist das ein Systemrivale“, sagt Strack-Zimmermann über China",
+    "description": "Die FDP-Politikerin Marie-Agnes Strack-Zimmermann warnt nach den deutsch-chinesischen Regierungskonsultationen bei „Maischberger“, Pekings Großmachtdenken zu ignorieren. Der Westen drohe Fehler zu wiederholen, die er im Umgang mit Putin gemacht habe. China se…",
+    "url": "https://www.welt.de/vermischtes/article245981346/Maischberger-China-sei-ein-Systemrivale-sagt-Strack-Zimmermann.html",
+    "urlToImage": "https://img.welt.de/img/vermischtes/mobile245981380/7561358577-ci16x9-w1200/Maischberger-21-06-2023-3530.jpg",
+    "publishedAt": "2023-06-21T01:58:46Z",
+    "content": "Deutschlands Beziehungen zu China und Russland sind angespannt. Doch während der russische Prasident Wladimir Putin regelmaßig Drohungen Richtung Westen ausspricht, gab sich der chinesische Ministerp… [+4256 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tomshw.it"
+    },
+    "author": "Luca Zaninello",
+    "title": "Apple cede alle critiche e migliora il suo sistema di auto-riparazione degli iPhone",
+    "description": "Apple ha semplificato la procedura che verifica se la riparazione fai-da-te è stata eseguita correttamente e se i componenti sono originali.",
+    "url": "https://www.tomshw.it/smartphone/apple-cede-alle-critiche-e-migliora-il-suo-sistema-di-auto-riparazione-degli-iphone/",
+    "urlToImage": "https://www.tomshw.it/images/images/2021/11/apple-self-service-repair-198647.jpg",
+    "publishedAt": "2023-06-21T09:00:20Z",
+    "content": "Apple Apple cede alle critiche e migliora il suo sistema di auto-riparazione degli iPhone\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una … [+2439 chars]"
+    },
+    {
+    "source": {
+    "id": "la-repubblica",
+    "name": "La Repubblica"
+    },
+    "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+    "title": "Apple Vision Pro, la domanda di tutti: cosa si può fare col visore della Mela?",
+    "description": "Apple ha appena presentato il suo Vision Pro, un visore per realtà mista (virtuale e aumentata) per lo “spatial computing”. E le domande ricorrenti sono due: cosa possiamo fare con questo visore, e perché costa tanto (parte da 3499 dollari)? Le risposte: il V…",
+    "url": "https://video.repubblica.it/tecnologia/techtest/apple-vision-pro-la-domanda-di-tutti-cosa-si-puo-fare-col-visore-della-mela/447669/448636",
+    "urlToImage": "https://www.repstatic.it/video/photo/2023/06/20/903038/903038-thumb-full-720-visore_rep_tre.jpg",
+    "publishedAt": "2023-06-21T02:37:49Z",
+    "content": "&lt;iframe class=\"rep-video-embed\" src=\"https://video.repubblica.it/embed/tecnologia/techtest/apple-vision-pro-la-domanda-di-tutti-cosa-si-puo-fare-col-visore-della-mela/447669/448636&amp;width=640&a… [+314 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Techbang.com"
+    },
+    "author": "Hsuann",
+    "title": "端午旅遊行程回饋「放大三次」！快點卡綁LINE Pay最高回饋4.5%再享50點",
+    "description": "LINE Bank 列出國內3大旅行社燦星、東南、山富旅遊及 KKday 優惠，用「快點卡」並完成 LINE Pay 綁定刷卡滿額回饋點數4%，合計最高享4.5%再加碼50點。LINE Bank 列出國內3大旅行社燦星、東南、山富旅遊及網路旅遊平台 \r\nKKday 優惠，用「快點卡」並完成 LINE Pay 綁定，購買旅遊行程、訂票、訂房時，除能享有 LINE Bank 一般消費與 LINE Pay 加碼回饋，更能享受 LINE Pay 和 Visa 活動優惠，刷卡滿額回饋點數4%，合計最高享4\r\n.5%再加碼5…",
+    "url": "https://www.techbang.com/posts/107383-dragon-boat-festival-travel-line-bank-card-binding-line-pay",
+    "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/107383/original/b26dc6c91abe5c66984370659a67ae5f.jpg?1687264458",
+    "publishedAt": "2023-06-21T09:00:00Z",
+    "content": "LINE Bank 3 \r\nKKday LINE Pay LINE Bank LINE Pay LINE Pay Visa 4%4\r\n.5%50\r\nLINE Pay 2023/6/162023/7/\r\n15NT$20,000 LINE POINTS 4% LINE Pay 1,000 LINE Bank 0.5%4.5%\r\nPay50\r\n \r\n K\r\nKday2023/9/30 KKday AP… [+101 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digiday"
+    },
+    "author": "Michael Bürgi",
+    "title": "Digiday podcast at Cannes: How PMG plans to keep building its tech (with AI) to blend media and creative",
+    "description": "Popstefanov is interested in finding ways to put generative AI to use simplifying functions and helping to iterate the thousands of versions of content and advertising that personalized communication promises.",
+    "url": "http://digiday.com/media/digiday-podcast-at-cannes-how-pmg-plans-to-keep-building-its-tech-with-ai-to-blend-media-and-creative/",
+    "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/06/cannes-podcast-cover-George_Popstefanov-1030x600-2023-1.png",
+    "publishedAt": "2023-06-21T04:01:00Z",
+    "content": "Subscribe: Apple Podcasts • Stitcher • Spotify\r\nIn our third episode of the Digiday podcast here in the south of France, I chatted with George Popstefanov, founder and CEO of independent agency PMG, … [+634 chars]"
+    },
+    {
+    "source": {
+    "id": "marca",
+    "name": "Marca"
+    },
+    "author": "Sergio F. Núñez",
+    "title": "¿Víctor Orta? \"Nadie podrá llenar el hueco de Monchi en el Sevilla\"",
+    "description": "Los directores deportivos son una figura fundamental en el organigrama de ciertos clubes y completamente desaparecida en el de algunos otros. Hay quienes la fomentan pero ponen en",
+    "url": "https://www.marca.com/radio/marca-daily/2023/06/21/64918d8346163f563a8b45c8.html",
+    "urlToImage": "https://phantom-marca.unidadeditorial.es/efa815aab519c5557a6a7e4c29a7e9cf/crop/0x0/2044x1363/resize/1200/f/jpg/assets/multimedia/imagenes/2023/06/20/16872604086264.jpg",
+    "publishedAt": "2023-06-21T04:31:56Z",
+    "content": "Los directores deportivos son una figura fundamental en el organigrama de ciertos clubes y completamente desaparecida en el de algunos otros. Hay quienes la fomentan pero ponen en el cargo a gente si… [+1348 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Le HuffPost"
+    },
+    "author": "Jean Le Roux",
+    "title": "« Participer à la Fête de la musique, cela peut vraiment tout changer en tant qu’artiste »",
+    "description": "Jean est ingénieur du son et féru de musique. Il compose pour de nombreux artistes et notamment pour son ami Théo avec qui il a vécu ses premières scènes. Il nous raconte l’importance de la Fête de la musique dans son parcours.",
+    "url": "https://www.huffingtonpost.fr/culture/article/participer-a-la-fete-de-la-musique-cela-peut-vraiment-tout-changer-en-tant-qu-artiste_219472.html",
+    "urlToImage": "https://huffpost-focus.sirius.press/2023/06/20/247/0/4896/2754/1820/1023/75/0/8aec16e_1687264320393-fa-te-de-la-musique.jpg",
+    "publishedAt": "2023-06-21T05:00:14Z",
+    "content": "TÉMOIGNAGE - Mon premier souvenir remonte à lécole primaire, quand jétais dans ma chambre avec lordinateur de ma mère pour aller sur GarageBand, un logiciel denregistrement et de création musicale dé… [+5601 chars]"
+    },
+    {
+    "source": {
+    "id": "techradar",
+    "name": "TechRadar"
+    },
+    "author": "cesartechradar@gmail.com (Cesar Cadenas)",
+    "title": "iOS 17 will support Apple passkeys at launch and you can try them out today",
+    "description": "Apple is testing passkey support on both iOS 17 and macOS Sonoma which you can try out today by installing the betas.",
+    "url": "https://www.techradar.com/pro/security/ios-17-will-support-apple-passkeys-at-launch-and-you-can-try-them-out-today",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/63f2vznLQDpxhMmFasyaiD-1200-80.jpg",
+    "publishedAt": "2023-06-21T00:23:15Z",
+    "content": "Starting with iOS 17\r\n, iPadOS 17, and macOS Sonoma, Apple will begin automatically assigning Apple ID\r\n owners their very own passkey.\r\nPasskeys\r\n, if you’re not familiar with the concept, are a new… [+2373 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Numerama"
+    },
+    "author": "Matthieu Fabris",
+    "title": "En promo, les AirPods Pro 2 vous accompagnent pour la fête de la musique",
+    "description": "Les meilleurs écouteurs d’Apple sont un peu plus abordables en promotion. Les AirPods Pro 2 bénéficient régulièrement de réduction, mais descendent rarement sous les 250 €. Ils sont en ce moment à moins de 230 € sur Rakuten.C’est quoi, cette",
+    "url": "https://www.numerama.com/tech/1421888-en-promo-les-airpods-pro-2-vous-accompagnent-pour-la-fete-de-la-musique.html",
+    "urlToImage": "https://www.numerama.com/wp-content/uploads/2022/10/og-eui2mpgzwyaa-overview.jpg",
+    "publishedAt": "2023-06-21T08:45:00Z",
+    "content": "[Deal du Jour] Les meilleurs écouteurs dApple sont un peu plus abordables en promotion. Les AirPods Pro 2 bénéficient régulièrement de réduction, mais descendent rarement sous les 250 . Ils sont en c… [+3177 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Numerama"
+    },
+    "author": "Nicolas Lellouche",
+    "title": "Non, l’Europe n’impose pas le retour des batteries amovibles sur smartphone",
+    "description": "Contrairement à ce que l'on peut lire partout, les batteries amovibles à l'ancienne ne vont pas faire leur retour dans nos smartphones. L'Union européenne exige des constructeurs qu'ils facilitent le remplacement d'une batterie, pas qu'ils revoient complèteme…",
+    "url": "https://www.numerama.com/tech/1421930-non-leurope-nimpose-pas-le-retour-des-batteries-amovibles-sur-smartphone.html",
+    "urlToImage": "https://www.numerama.com/wp-content/uploads/2021/11/ifixit-programme-apple.jpg",
+    "publishedAt": "2023-06-21T08:25:41Z",
+    "content": "Contrairement à ce que lon peut lire partout, les batteries amovibles à lancienne ne vont pas faire leur retour dans nos smartphones. LUnion européenne exige des constructeurs quils facilitent le rem… [+4739 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hdblog.it"
+    },
+    "author": "HDblog.it",
+    "title": "Mac Pro con M2 Ultra di Apple: conferme e qualche sorpresa dal teardown di iFixit",
+    "description": "Confermata la RAM saldata",
+    "url": "https://www.hdblog.it/apple/articoli/n571050/mac-pro-teardown-ifixit/",
+    "urlToImage": "https://hd2.tudocdn.net/1103152?w=1920",
+    "publishedAt": "2023-06-21T08:50:00Z",
+    "content": "Dopo il Mac Studio, arriva per il nuovo Mac Pro di Apple, annunciato nel corso della WWDC 2023, è arrivato il consueto \"teardown\" che ci consente di dare un sguardo più approfondito ai componenti int… [+2952 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hdblog.it"
+    },
+    "author": "HDblog.it",
+    "title": "Pixel come iPhone: saranno fabbricati in India",
+    "description": "Colloqui in corso.",
+    "url": "https://www.hdblog.it/google/articoli/n571040/google-pixel-produzione-india-quando-perche/",
+    "urlToImage": "https://hd2.tudocdn.net/1062667?w=1920",
+    "publishedAt": "2023-06-21T07:03:00Z",
+    "content": "Google potrebbe seguire le orme di Apple e portare la produzione (o parte di questa) in India. L'obiettivo è quello di diversificare i rischi ed essere sempre più indipendenti dalla Cina. In questo m… [+1387 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hdmotori.it"
+    },
+    "author": "HDblog.it",
+    "title": "Range Rover Evoque, piccoli ritocchi al look e tante novità per gli interni",
+    "description": "Le maggiori novità riguardano gli interni",
+    "url": "https://www.hdmotori.it/land-rover/articoli/n571035/range-rover-evoque-2024-restyling-interni-motori/",
+    "urlToImage": "https://hd2.tudocdn.net/1103105?w=1920",
+    "publishedAt": "2023-06-21T06:40:00Z",
+    "content": "Per la Range Rover Evoque arriva un leggero restyling che introduce alcune piccole novità di design e un rinnovamento della plancia. Con il Model Year 2024, Land Rover va dunque ad aggiornare questo … [+2389 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphoneitalia.com"
+    },
+    "author": "Giuseppe Migliorino",
+    "title": "Uno dei principali dirigenti di machine learning di Apple lascia l’azienda",
+    "description": "Ali Farhadi, uno dei principali dirigenti di machine learning di Apple, lascia l'azienda per la carica di CEO dell'Allen Institute of Artificial Intelligence.\nLink all'articolo originale: Uno dei principali dirigenti di machine learning di Apple lascia l’azie…",
+    "url": "https://www.iphoneitalia.com/810732/ali-farhadi-dirigente-machine-learning-lascia-apple",
+    "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/06/ml-apple.jpg",
+    "publishedAt": "2023-06-21T09:45:13Z",
+    "content": "Ali Farhadi è entrato in Apple nel 2020 dopo che la società ha acquisito la startup da lui fondata, Xnor․ai, in un accordo del valore di circa 200 milioni di dollari. Ora, l’ex dirigente ha deciso di… [+2294 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphoneitalia.com"
+    },
+    "author": "Giuseppe Migliorino",
+    "title": "Si avvicina il lancio delle nuove Beats Studio Pro",
+    "description": "Le prossime cuffie Beats Studio Pro di Apple sono apparse oggi nei documenti FCC, il che significa che ci stiamo avvicinando a una potenziale data di lancio.\nLink all'articolo originale: Si avvicina il lancio delle nuove Beats Studio Pro",
+    "url": "https://www.iphoneitalia.com/810715/beats-studio-pro-2023-quando",
+    "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/06/beats-studio-pro-2023.jpg",
+    "publishedAt": "2023-06-21T06:12:06Z",
+    "content": "Apple non ha ancora presentato le nuove cuffie Beats Studio Pro, ma sono state già individuate nell’aggiornamento macOS Ventura 13.4 a maggio.\r\nLe cuffie sono identificate con un numero di modello A2… [+1036 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphoneitalia.com"
+    },
+    "author": "Giuseppe Migliorino",
+    "title": "Su App Store arriva un nuovo formato per gli annunci pubblicitari",
+    "description": "A partire da luglio, gli annunci nella scheda Oggi dell'App Store avranno un design più compatto e saranno completamente visibili senza alcuno scorrimento.\nLink all'articolo originale: Su App Store arriva un nuovo formato per gli annunci pubblicitari",
+    "url": "https://www.iphoneitalia.com/810722/nuovo-formato-annunci-pubblicitari-app-store",
+    "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/06/annunci-app-store.jpg",
+    "publishedAt": "2023-06-21T06:27:55Z",
+    "content": "Il nuovo formato degli annunci su App Store includerà l’icona, il nome e il sottotitolo dell’app, insieme a un’etichetta “Annuncio” e un pulsante “Ottieni”.\r\nQuesto formato verrà mostrato sugli iPhon… [+879 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tecmundo.com.br"
+    },
+    "author": "Carlos Palmeira",
+    "title": "10 notícias de tecnologia para você começar o dia (21/06)",
+    "description": "Bom dia! Separamos as principais notícias do mundo da Ciência e Tecnologia para você saber tudo o que aconteceu na última terça-feira (20). Para conferir cada notícia na íntegra, basta clicar nos links a seguir.1. WhatsApp agora silencia chamadas de números d…",
+    "url": "https://www.tecmundo.com.br/internet/265463-10-noticias-tecnologia-voce-comecar-dia-21-06.htm",
+    "urlToImage": "https://tm.ibxk.com.br/2023/06/20/20182151904382.jpg",
+    "publishedAt": "2023-06-21T06:00:00Z",
+    "content": "Bom dia! Separamos as principais notícias do mundo da Ciência e Tecnologia para você saber tudo o que aconteceu na última terça-feira (20). Para conferir cada notícia na íntegra, basta clicar nos lin… [+1957 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Actualidadiphone.com"
+    },
+    "author": "Ángel González",
+    "title": "Estas son las funciones de iOS 17 que no llegarán con su lanzamiento oficial",
+    "description": "iOS 17 está en modo beta y llegará definitivamente en septiembre y algunas de sus funciones no llegarán en su primera versión.",
+    "url": "https://www.actualidadiphone.com/estas-son-las-funciones-de-ios-17-que-no-llegaran-con-su-lanzamiento-oficial/",
+    "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2023/06/iOS-17-iPhone-compatibles.jpg",
+    "publishedAt": "2023-06-21T08:00:51Z",
+    "content": "Es muy probable que a lo largo del día de hoy conozcamos la publicación de la segunda beta de iOS 17 y el resto de sistemas operativos mientras que la primera beta pública llegará el mes que viene. E… [+1877 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Pnghuy), Pnghuy",
+    "title": "iOS 17 sẽ có tính năng tìm Apple Watch qua phím tắt từ Control Center",
+    "description": "Trước đây, Apple đã từng giới thiệu tính năng tìm iPhone bằng Apple Watch, chỉ cần 1 thao tác trên đồng hồ là sẽ có thể định vị được iPhone qua âm thanh, nếu như chúng ta không nhớ rằng đã để iPhone ở đâu.",
+    "url": "https://tinhte.vn/thread/ios-17-se-co-tinh-nang-tim-apple-watch-qua-phim-tat-tu-control-center.3683520/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6470708_Cover-ping-my-watch-Apple-tinhte.jpg",
+    "publishedAt": "2023-06-21T01:02:20Z",
+    "content": "Trc ây, Apple ã tng gii thiu tính nng tìm iPhone bng Apple Watch, ch cn 1 thao tác trên ng h là s có th nh v c iPhone qua âm thanh, nu nh chúng ta không nh rng ã iPhone âu. Bây gi, vi iOS 17 thì Appl… [+558 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sspai.com"
+    },
+    "author": "少数派编辑部",
+    "title": "派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等",
+    "description": "Apple 更新自主维修计划设备支持范围及流程，Meta 发布用于语音的生成式 AI 模型 Voicebox 等。查看全文",
+    "url": "https://sspai.com/post/80491",
+    "urlToImage": "https://cdn.sspai.com/2023/6/21/article/0bf3ecc7-b425-6eaa-874c-7fd6a89fab70.png",
+    "publishedAt": "2023-06-21T01:07:05Z",
+    "content": "Outlook Windows 11 \r\n6 20 2024 Windows 11 Outlook Windows 11 app app Outlook app 2024 \r\n6 20 7 4 97% \r\nApple \r\n6 20 Apple 21 iPhone 14 M2 13 MacBook Air Macbook Pro Mac Apple Store Apple Apple iPhone… [+339 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Skift"
+    },
+    "author": "Skift",
+    "title": "Travel’s Recovery Around the World",
+    "description": "Today's edition of Skift's daily podcast looks closer at tourism recovery across the world, huge airplane orders in India, and an expanding boutique hotel brand. -Rashaad Jorden",
+    "url": "https://skift.com/2023/06/21/travels-recovery-around-the-world/",
+    "urlToImage": "https://skift.com/wp-content/uploads/2023/04/IMG_9817-scaled.jpeg",
+    "publishedAt": "2023-06-21T08:17:16Z",
+    "content": "Good morning from Skift. Its Wednesday, June 21. Heres what you need to know about the business of travel today.\r\nApple Podcasts | Spotify | Overcast | Google Podcasts\r\nThe global travel industry is … [+2521 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cult of Mac"
+    },
+    "author": "Ed Hardy",
+    "title": "Apple TV+ Metropolis adaptation gets the axe",
+    "description": "Turns out Apple TV+ is not going to turn Fritz Lang’s sci-fi classic Metropolis into a series. The project has been cancelled.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+    "url": "https://www.cultofmac.com/821144/apple-tv-plus-a-series-metropolis-adaptation-gets-the-axe/",
+    "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/06/Metropolis-Apple-TV-Plus.jpg",
+    "publishedAt": "2023-06-21T02:30:23Z",
+    "content": "Turns out Apple TV+ is not going to turn Fritz Langs sci-fi classic Metropolis into a series. The ongoing writers strike reportedly caused the project to be shut down.\r\nAnd its not the only Apple TV+… [+1519 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cult of Mac"
+    },
+    "author": "Lewis Wallace",
+    "title": "Will there be a Ted Lasso season 4? Yes, if Tim Cook gets his way.",
+    "description": "Comments from \"Ted Lasso\" co-creator Brendan Hunt, aka Coach Beard, definitely leave the door open for another season of Apple TV+ hit.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+    "url": "https://www.cultofmac.com/821139/will-there-be-ted-lasso-season-4/",
+    "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/06/Ted_Lasso_Photo_030205.jpeg",
+    "publishedAt": "2023-06-21T00:49:33Z",
+    "content": "Ted Lasso, the comedy that became the first surprise Apple TV+ hit, earned rave reviews with its recent series finale and now Apple CEO Tim cook wants more!\r\nThats according to Brendan Hunt, one of t… [+2584 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cult of Mac"
+    },
+    "author": "Rajesh Pandey",
+    "title": "Google Chrome for iOS gains Calendar and Maps integration",
+    "description": "The latest Google Chrome update for iOS uses the power of AI to automatically open addresses in Google Maps from within the browser.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+    "url": "https://www.cultofmac.com/821151/google-chrome-ios-gains-calendar-maps-integration/",
+    "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/06/Google-Chrome-iOS.jpeg",
+    "publishedAt": "2023-06-21T07:19:34Z",
+    "content": "Google is making Chrome better on the iPhone and iPad with several new AI-powered features. The browser is gaining deeper Google Maps and Calendar integration as a part of its latest release.\r\nAdditi… [+1625 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": "Daniel Gonz�lez",
+    "title": "FREE FIRE | Códigos de hoy miércoles 21 de junio de 2023 - Recompensas gratis",
+    "description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire que podrás canjear hoy, miércoles 21 de junio de 2023. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire, ha recibido nuevo…",
+    "url": "https://vandal.elespanol.com/noticia/1350763334/free-fire-codigos-de-hoy-miercoles-21-de-junio-de-2023-recompensas-gratis/",
+    "urlToImage": "https://media.vandal.net/i/ivandal/1200x630/6-2023/20236217583959_1.jpg",
+    "publishedAt": "2023-06-21T06:02:00Z",
+    "content": "El xito para mviles Android e iOS, Garena Free Fire, ha recibido nuevos cdigos diarios para hoy mircoles 21 de junio de 2023. Los jugadores pueden canjear estos cdigos para recibir recompensas variad… [+2157 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macitynet.it"
+    },
+    "author": "Mauro Notarianni",
+    "title": "Auricolari, Apple è leader nel mercato True Wireless Stereo (TWS)",
+    "description": "Da un report analitico sul mercato True Wireless Stereo (TWS) - l'ascolto di musica senza cavi - emerge che Apple è l'azienda che continua a dominare il settore.\n- su macitynet.it Auricolari, Apple è leader nel mercato True Wireless Stereo (TWS)",
+    "url": "https://www.macitynet.it/auricolari-apple-e-leader-nel-mercato-true-wireless-stereo-tws/",
+    "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/03/AirPodsesempio.jpg",
+    "publishedAt": "2023-06-21T06:59:31Z",
+    "content": "Da un report analitico sul mercato True Wireless Stereo (TWS) – l’ascolto di musica senza cavi – emerge che Apple nel primo trimestre 2023 è l’azienda che domina il settore.\r\nNegli ultimi due trimest… [+1762 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macitynet.it"
+    },
+    "author": "Mauro Notarianni",
+    "title": "Navee V40, in Italia il monopattino con alloggiamento AirTag di serie",
+    "description": "Offre manubrio e pedana più larghi per comodità di viaggio e sicurezza: tutti i dettagli del monopattino elettrico Navee V40 \n- su macitynet.it Navee V40, in Italia il monopattino con alloggiamento AirTag di serie",
+    "url": "https://www.macitynet.it/navee-v40-italia-monopattino-airtag/",
+    "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/06/Navee-V40-sito-web-1.jpg",
+    "publishedAt": "2023-06-21T09:39:38Z",
+    "content": "Navee, costruttore specializzato in mobilità elettrica, ha presentato Navee V40 in Italia: questo scooter elettrico si distingue per una particolare attenzione a ergonomia e sicurezza. È indicato com… [+2991 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Snopes.com"
+    },
+    "author": "Jordan Liles",
+    "title": "Kaley Cuoco Never Endorsed Weight Loss Gummies or 'Intermittent Keto Routine'",
+    "description": "Cuoco was simply the latest person in a long line of celebrities who had their image and likeness used by scammers to push these \"miracle\" products.",
+    "url": "https://www.snopes.com/fact-check/kaley-cuoco-keto-weight-loss-gummies/",
+    "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/06/kaley_cuoco_premiere.jpg",
+    "publishedAt": "2023-06-21T00:12:00Z",
+    "content": "Claim:\r\nA social media post or website reports that actor Kaley Cuoco had endorsed CBD or keto weight loss gummies.\r\nIn June 2023, we reviewed sponsored ads that were being displayed on Meta's platfo… [+2860 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hwupgrade.it"
+    },
+    "author": null,
+    "title": "Se il design delle nuove Apple AirPods Max 2 fosse preso in prestito dal Vision Pro?",
+    "description": "Il nuovo Apple Vision Pro, il primo visore a realtà mista di Apple, potrebbe dare il via ad una serie di prodotti dell'azienda con materiali, colori e funzionalità capaci. E le prime della lista potrebbero essere le AirPods Max 2 che un designer ha cercato di…",
+    "url": "https://www.hwupgrade.it/news/apple/se-il-design-delle-nuove-apple-airpods-max-2-fosse-preso-in-prestito-dal-vision-pro_117785.html",
+    "urlToImage": "https://www.hwupgrade.it/i/n/AppleAirPodsMax2_720.jpg",
+    "publishedAt": "2023-06-21T07:56:20Z",
+    "content": "Le nuove AirPods Max 2 potrebbero essere il primo prodotto ispirato da ciò che Apple ha fatto con il nuovissimo Vision Pro, il primo visore a realtà mista dell'azienda di Cupertino. In questo caso l'… [+2399 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hwupgrade.it"
+    },
+    "author": null,
+    "title": "[NO]L'Amazon Prime Day ritorna l'11 e 12 luglio! Tante offerte iniziano già oggi. Eccole tutte",
+    "description": "Due giorni di offerte su prodotti di molti marchi, come HP, LG, Oral-B, Philips. Moltissime promozioni anche sui prodotti delle piccole e medie imprese italiane. Tante offerte anticipate sono già disponibili su Amazon da oggi, eccole tutte.",
+    "url": "https://www.hwupgrade.it/news/multimedia/nol-amazon-prime-day-ritorna-l-11-e-12-luglio-tante-offerte-iniziano-gia-oggi-eccole-tutte_117775.html",
+    "urlToImage": "https://www.hwupgrade.it/i/n/primeday23_720.jpg",
+    "publishedAt": "2023-06-21T08:30:26Z",
+    "content": "Come ogni anno la data più attesa dai clienti Amazon è stata rilasciata. Il Prime Day si terrà l'11 e il 12 luglio e sarà pieni di offerte molto interessanti. Le 48 ore di offerte inizieranno a mezza… [+15639 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hwupgrade.it"
+    },
+    "author": null,
+    "title": "L'Amazon Prime Day ritorna l'11 e 12 luglio! Tante offerte iniziano già oggi. Eccole tutte",
+    "description": "Due giorni di offerte su prodotti di molti marchi, come HP, LG, Oral-B, Philips. Moltissime promozioni anche sui prodotti delle piccole e medie imprese italiane. Tante offerte anticipate sono già disponibili su Amazon da oggi, eccole tutte.",
+    "url": "https://www.hwupgrade.it/news/multimedia/l-amazon-prime-day-ritorna-l-11-e-12-luglio-tante-offerte-iniziano-gia-oggi-eccole-tutte_117775.html",
+    "urlToImage": "https://www.hwupgrade.it/i/n/primeday23_720.jpg",
+    "publishedAt": "2023-06-21T08:30:26Z",
+    "content": "Come ogni anno la data più attesa dai clienti Amazon è stata rilasciata. Il Prime Day si terrà l'11 e il 12 luglio e sarà pieni di offerte molto interessanti. Le 48 ore di offerte inizieranno a mezza… [+15639 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PhoneArena"
+    },
+    "author": "Stanislav Serbezov",
+    "title": "Spotify may finally be introducing HiFi audio, but are you willing to pay the price?",
+    "description": "Spotify is the world’s leader in music streaming services. Yet, the app still plans to charge extra for features already available for free with the competition.",
+    "url": "https://www.phonearena.com/news/spotify-to-finally-get-lossless-hifi-music-cost-extra_id148322",
+    "urlToImage": "https://m-cdn.phonearena.com/images/article/148322-wide-two_1200/Spotify-may-finally-be-introducing-HiFi-audio-but-are-you-willing-to-pay-the-price.jpg",
+    "publishedAt": "2023-06-21T08:44:13Z",
+    "content": "Youve probably heard of this huge music streaming service called Spotify. It is an app thats likely to be found on some of the best phones on the market and for good reason: it works. In recent times… [+2193 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hwupgrade.it"
+    },
+    "author": null,
+    "title": "Apple permette di riparare da soli tutti gli iPhone 14. Come funziona ''Self Service Repair''?",
+    "description": "Il servizio di riparazione ''fai da te'' di Apple è accessibile da tempo per tutti gli utenti, anche quelli italiani, ma non per tutti i device. Oggi però l'azienda ha annunciato l'estensione anche a tutta la serie di iPhone 14 oltre ad altri Mac. Ecco come f…",
+    "url": "https://www.hwupgrade.it/news/apple/apple-permette-di-riparare-da-soli-tutti-gli-iphone-14-come-funziona-self-service-repair_117783.html",
+    "urlToImage": "https://www.hwupgrade.it/i/n/AppleSelfReapir_720.jpg",
+    "publishedAt": "2023-06-21T07:21:20Z",
+    "content": "Apple da oggi permetterà di far riparare da soli agli utenti gli smartphone di tutta la sua linea di iPhone 14. Il servizio denominato ''Apple Self Service Reapir'' è accessibile anche in Italia da u… [+2921 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hwupgrade.it"
+    },
+    "author": null,
+    "title": "Oltre 100.000 account di ChatGPT scovati sul dark web: non è una bella notizia",
+    "description": "La società di sicurezza Group-IB lancia l'allarme sul furto degli account ChatGPT: in vendita sul dark web vi sarebbero decine di migliaia di account che potrebbero fornire l'accesso a informazioni sensibili, visto l'uso crescente del chatbot nelle aziende al…",
+    "url": "https://www.hwupgrade.it/news/sicurezza-software/oltre-100000-account-di-chatgpt-scovati-sul-dark-web-non-e-una-bella-notizia_117774.html",
+    "urlToImage": "https://www.hwupgrade.it/i/n/ChatGPT_720.jpg",
+    "publishedAt": "2023-06-21T06:01:01Z",
+    "content": "Oltre 100mila account utente di ChatGPT sono stati rubati nell'ultimo anno. Secondo la società di sicurezza Group-IB, nel dark web circolano le credenziali di decine di migliaia di account ottenute d… [+2261 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sapo.pt"
+    },
+    "author": "Pedro Simões",
+    "title": "Apple revelou por que não quer mostradores de relógio de terceiros no watchOS e no Watch",
+    "description": "O watchOS 10 traz muitas mudanças, mas há uma funcionalidade que há muitos anos não é mudada. Falamos da possibilidade de usar faces de relógio de terceiros, algo em que a Apple parece ser...",
+    "url": "https://pplware.sapo.pt/apple/apple-revelou-por-que-nao-quer-mostradores-de-relogio-de-terceiros-no-watchos-e-no-watch/",
+    "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2023/06/face_relogio_apple_watch_1.jpg",
+    "publishedAt": "2023-06-21T08:00:22Z",
+    "content": "O watchOS 10 traz muitas mudanças, mas há uma funcionalidade que há muitos anos não é mudada. Falamos da possibilidade de usar faces de relógio de terceiros, algo em que a Apple parece ser intransige… [+1896 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smhn.info"
+    },
+    "author": "スミーレ",
+    "title": "Apple、「米軍向けHMD」のAR新興企業「Mira」を買収",
+    "description": "米空軍にも製品を納入するMira（画像出典；Mira）海外サイト「The Verge」は6月7日、AppleがAR関連企業「Mira」を買収したと伝えました。Miraは、ARヘッドセットやヘルメットに取り付けるARグラスなどを開発するスタートアップ企業。民生品から軍用品まで幅広...smhn.infoにアクセスすると、全文を読むことができます。",
+    "url": "https://smhn.info/202306-apple-us-army-ar-startup",
+    "urlToImage": "https://smhn.info/wp-content/uploads/2023/06/2_of_3_from_Wes_on_30_July_2021.png",
+    "publishedAt": "2023-06-21T08:05:29Z",
+    "content": "The Verge67AppleARMira\r\nMiraARARSUPER NINTENDO WORLDAR\r\nThe VergeAppleMiraMiraAppleMira\r\nApple\r\nAppleMira\r\nAppleXRVision Pro150\r\nXRMiraVision ProXRAppleMira"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "Apple、デベロッパー登録者向けオンラインイベント「WWDC23 recap」を開催",
+    "description": "WWDC23 recap\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、2023年6月27〜29日にかけて、デベロッパー登録者向けオンラインイベント「WWDC23 recap」を開催するそうです。\nこのオンラインイベントは、日本を拠点とするすべてのApple Developer Program登録済みAppleデベロッパが対象となっていて、Apple Developer Programに登録していない方は参加できませ…",
+    "url": "https://www.macotakara.jp/news/entry-44947.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202306/e4bb59a3df4a0a16.png",
+    "publishedAt": "2023-06-21T01:23:38Z",
+    "content": "Apple202362729WWDC23 recap\r\nApple Developer ProgramAppleApple Developer Program"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Unwire.hk"
+    },
+    "author": "唐美鳳",
+    "title": "Apple 自助維修服務更新 加入多款 iPhone 和 Mac 產品",
+    "description": "去年 4 月 Apple 宣佈在美國推出自助維修服務計劃，讓 iPhone 12、iPhone 13 和 iPhone SE（第三代）的用戶可以透過 Apple 官方網站，購買原廠零件並取得工具和手冊，自行為損壞的裝置進行維修。自助維修不會影響保養，而計劃亦在去年年底推展至多個歐洲國家。\nThe post Apple 自助維修服務更新 加入多款 iPhone 和 Mac 產品 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+    "url": "https://unwire.hk/2023/06/21/apples-self-repair-service-now-includes-these-new-iphones-and-macbooks/mobile-phone/",
+    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/06/02-20.png",
+    "publishedAt": "2023-06-21T03:40:46Z",
+    "content": "4 Apple iPhone 12iPhone 13 iPhone SE Apple \r\n Apple iPhone 14 iPhone 14 Pro MacBook AirM2, 2022 MacBook Pro14 , 2023Apple iPhone 12 iPhone 13 TrueDepth \r\n Apple \r\ntechradar"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Unwire.hk"
+    },
+    "author": "唐美鳳",
+    "title": "Beats Studio Pro 網站現身 料 Apple 將於短期內發表",
+    "description": "網站 MacRumors 報導指尚未發表的 Beats Studio Pro，昨日出現在美國聯邦通信委員會官方網站，相信距離 Apple 正式發表此頭戴式無線耳機的日子越來越近。Beats Studio Pro 最早在 5 月時被發現在 macOS Ventura 13.4 的程式碼中，產品編號和 ID 分別為 A2924 和 BeatsStudioPro1.1。\nThe post Beats Studio Pro 網站現身 料 Apple 將於短期內發表 appeared first on 香港 unwire.…",
+    "url": "https://unwire.hk/2023/06/21/beats-studio-pro-fcc-database/mobile-music/headphones/",
+    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/06/04-20.png",
+    "publishedAt": "2023-06-21T03:40:51Z",
+    "content": "MacRumors Beats Studio Pro Apple Beats Studio Pro 5 macOS Ventura 13.4 ID A2924 BeatsStudioPro1.1\r\n Beats Studio Pro Beats Studio 3 Wireless 2017 10 Apple Beats Studio Pro 2023 Pro\r\n Beats Studio Pro… [+56 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacGeneration"
+    },
+    "author": "Mickaël Bazoge",
+    "title": "Sortie de veille : Apple donne un coup main aux bricolos de l'iPhone 14",
+    "description": "Tous les matins de la semaine, écoutez Sortie de veille, le podcast quotidien de MacGeneration ! En plus ou moins dix minutes, on fait le tour de l'actualité de la veille, avec en plus un test, une interview, ou un retour sur une info.\n\nPourquoi ne pas consac…",
+    "url": "https://www.macg.co/podcasts/2023/06/sortie-de-veille-apple-donne-un-coup-main-aux-bricolos-de-liphone-14-137693",
+    "urlToImage": "https://files.staticmacg.com/macgupload/icon.png",
+    "publishedAt": "2023-06-21T04:00:30Z",
+    "content": "Tous les matins de la semaine, écoutez Sortie de veille, le podcast quotidien de MacGeneration ! En plus ou moins dix minutes, on fait le tour de l'actualité de la veille, avec en plus un test, une i… [+1178 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphones.ru"
+    },
+    "author": "Артём Баусов",
+    "title": "Продажи смартфонов и наушников в России выросли на 15%. Лидируют Xiaomi и Apple",
+    "description": "Продажи смартфонов, наушников, смарт-часов и фитнес-трекеров выросли в России на 15% за первые четыре месяца 2023 года в сравнении с аналогичным периодом 2022-го. Об этом сообщает М.Видео-Эльдорадо. Всего продано было за этот срок 19 млн устройств. Среди лиде…",
+    "url": "https://www.iphones.ru/iNotes/prodazhi-smartfonov-i-naushnikov-v-rossii-vyrosli-na-15-lidiruyut-xiaomi-i-apple-06-21-2023",
+    "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F06%2FIMG_4495.jpeg",
+    "publishedAt": "2023-06-21T09:24:33Z",
+    "content": ", , - - 15% 2023 2022-. .-.\r\n 19 . Xiaomi, Apple, Samsung, Realme, Huawei Tecno. 45% . 30%.\r\n Tecno, 15,5 . , Xiaomi 19 . .\r\n , - Realme 20 ., Huawei 43 ., Samsung 55 . . Apple 112 . . []"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphones.ru"
+    },
+    "author": "Микк Сид",
+    "title": "Найден редкий документ «Как выжить при землетрясениях» по версии Apple в 1986 году. Полезно знать и сейчас",
+    "description": "Не секрет, что штаб-квартира Apple всегда располагалась в штате Калифорния, где периодически происходят землетрясения. Заботясь о своих сотрудниках, компания в 1986 году запустила программу «Набор выживальщика», которая состояла из рекомендаций для персонала …",
+    "url": "https://www.iphones.ru/iNotes/apple-vypuskala-pamyatku-na-sluchay-zemletryaseniy-v-kalifornii-v-1986-godu-06-21-2023",
+    "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F06%2F2-2-5.jpg",
+    "publishedAt": "2023-06-21T08:50:19Z",
+    "content": ", - Apple , . , 1986 « », , .\r\n Earthquake Survival Kit, Apple « ?», Sunset « » 1982 . « », 1986 .\r\n , Apple , .\r\n ? Apple\r\n PDF (1,2 )\r\n , , -.\r\n , . , 2023 , .\r\n . .\r\n: , Apple 1987 . \r\n[archive.or… [+1 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacGeneration"
+    },
+    "author": "Félix Cattafesta",
+    "title": "La boutique Self Service Repair a désormais des pièces pour les Mac de bureau, le Studio Display et l'iPhone 14",
+    "description": "Apple a mis à jour sa boutique Self Service Repair, qui permet de réparer soi même son iPhone ou son Mac en commandant directement les pièces et autres outils officiels nécessaires à l'opération. Si Apple a annoncé hier l'arrivée de la gamme iPhone 14 et des …",
+    "url": "https://www.macg.co/materiel/2023/06/la-boutique-self-service-repair-desormais-des-pieces-pour-les-mac-de-bureau-le-studio-display-et-liphone-14-137701",
+    "urlToImage": "https://cdn.mgig.fr/2023/06/mga-dc195985-w375-w1500-w750_accroche.jpg",
+    "publishedAt": "2023-06-21T09:30:00Z",
+    "content": "Apple a mis à jour sa boutique Self Service Repair, qui permet de réparer soi même son iPhone ou son Mac en commandant directement les pièces et autres outils officiels nécessaires à l'opération. Si … [+1303 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Expansion.com"
+    },
+    "author": "expansion.com",
+    "title": "La Primera de Expansión sobre el futuro de Vodafone en España asesorado por Morgan Stanley, CaixaBank y Ayuso",
+    "description": "En cuanto a la agenda del día, estaremos atentos a la huelga en Air Europa, que ha cancelado diez vuelos de su programación prevista por hoy. El sindicato de pilotos SEPLA ha convo",
+    "url": "https://www.expansion.com/podcasts/2023/06/21/649286cce5fdea1d208b45b3.html",
+    "urlToImage": "https://phantom-expansion.unidadeditorial.es/4acfaafd6d059a09021b2d87fcf1d71e/resize/1200/f/jpg/assets/multimedia/imagenes/2023/06/21/16873237508589.jpg",
+    "publishedAt": "2023-06-21T05:40:22Z",
+    "content": "Esta mañana les contamos que Vodafone se está apoyando en Morgan Stanley para decidir su futuro en nuestro país. Además, veremos que CaixaBank ha disparado su asesoramiento independiente alcanzando l… [+728 chars]"
+    }
+    ]
+    }
